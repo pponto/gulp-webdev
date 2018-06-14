@@ -27,7 +27,7 @@ $ gulp
 
 ### dist command
 
-`gulp dist` will compile all files, as well all  images in the `/img` folder, which are only copied with the default command.
+`gulp dist` will compile all files, as well all images in the `/img` will be compressed, which are only copied with the default command.
 
 ```sh
 $ gulp dist
