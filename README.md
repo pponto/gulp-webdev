@@ -23,11 +23,11 @@ $ npm install
 $ gulp
 ```
 
-Gulp command Will compile all files on the `/src` folder to another folder, called `/dist`. After the command, Gulp will monitor the files automatically with the `watch` function, always recompiling the files after any saved changes.
+`gulp` command will compile all files on the `/src` folder to another folder, called `/dist`. After the command, Gulp will monitor the files automatically with the `watch` function, always recompiling the files after any saved changes.
 
 ### dist command
 
-`gulp dist` Will compile all files, as well all  images in the `/img` folder, which are only copied with the default command.
+`gulp dist` will compile all files, as well all  images in the `/img` folder, which are only copied with the default command.
 
 ```sh
 $ gulp dist
