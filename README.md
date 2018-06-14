@@ -17,9 +17,7 @@ $ npm install
 
 ## How to use
 
-### gulp command:
-
-The default `gulp`:
+### gulp command
 
 ```sh
 $ gulp
