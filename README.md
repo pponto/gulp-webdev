@@ -78,11 +78,11 @@ $ gulp dist
 
 ### Configuration
 
-PostCSS [Autoprefixer](https://github.com/postcss/autoprefixer)
-PostCSS [Easing Gradient](https://github.com/larsenwork/postcss-easing-gradients)
-PostCSS [Font Magician](https://github.com/jonathantneal/postcss-font-magician)
-PostCSS [Responsive Type](https://github.com/seaneking/postcss-responsive-type)
-Gulp [Sass](https://www.npmjs.com/package/gulp-sass)
+PostCSS [Autoprefixer](https://github.com/postcss/autoprefixer)  
+PostCSS [Easing Gradient](https://github.com/larsenwork/postcss-easing-gradients)  
+PostCSS [Font Magician](https://github.com/jonathantneal/postcss-font-magician)  
+PostCSS [Responsive Type](https://github.com/seaneking/postcss-responsive-type)  
+Gulp [Sass](https://www.npmjs.com/package/gulp-sass)  
 Gulp [Babel](https://www.npmjs.com/package/gulp-babel)
 
 ## License
