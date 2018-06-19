@@ -2,6 +2,10 @@
 
 A simple environment to watch and compile your website project with Sass, PostCSS, Babel, Image Compress (JPG and PNG) and Autoprefixer.
 
+## Requeriments
+
+You need [npm](https://www.npmjs.com/get-npm) and [nodejs](https://nodejs.org/en/) working to use this project.
+
 ## Installation
 
 You can download a zip file or clone the repository:
@@ -71,6 +75,15 @@ $ gulp dist
 ```
 
 *This function does not have `watch` mode.
+
+### Configuration
+
+PostCSS [Autoprefixer](https://github.com/postcss/autoprefixer)
+PostCSS [Easing Gradient](https://github.com/larsenwork/postcss-easing-gradients)
+PostCSS [Font Magician](https://github.com/jonathantneal/postcss-font-magician)
+PostCSS [Responsive Type](https://github.com/seaneking/postcss-responsive-type)
+Gulp [Sass](https://www.npmjs.com/package/gulp-sass)
+Gulp [Babel](https://www.npmjs.com/package/gulp-babel)
 
 ## License
 
