@@ -52,7 +52,7 @@ project
     └───compiled folders by gulp
 ```
 
-The folder structure can be modified at any time by changing the names or anything you want in the gulpfile.js file. 
+The folder structure can be modified at anytime by changing the names or anything you want in the gulpfile.js file. 
 
 ### gulp command
 
@@ -64,7 +64,7 @@ $ gulp
 
 ### dist command
 
-`gulp dist` will compile all files, as well all images in the `/img` will be compressed, which are only copied with the `gulp` default command.
+`gulp dist`* will compile all files, as well all images in the `/img` will be compressed, which are only copied with the `gulp` default command.
 
 ```sh
 $ gulp dist
